@@ -1,0 +1,8 @@
+SISTEM INFORMASI MONITORING MATRIKULASI MAHASISWA BERBASIS WEB DI STEI TAZKIA
+
+1. Pendahuluan
+	a. monitoring
+		- penjelasan singkat
+			Monitoring adalah penilaian secara terus menerus terhadap fungsi kegiatan-kegiatan program-program di dalam hal jadwal penggunaan input/masukan data oleh kelompok sasaran berkaitan dengan harapan-harapan yang telah direncanakan
+	b. matrikulasi
+		- penjelasan singkat

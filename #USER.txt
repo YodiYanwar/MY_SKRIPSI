@@ -1,0 +1,22 @@
+User :
+
+1. Admin Matrikulasi
+2. Akademik
+3. TLC
+4. Ketua & wakit ketua matrikulasi
+5. Mahasiswa
+6. Dosen (Akademik & TLC)
+	TLC
+		- Belajar & Mengajar bahasa (arab & inggris)
+		- Input nilai (excel) = harian(quis), UTS, UAS, TOEFLS
+		- Membuat Jadwal kuliah (2 minggu sebelum mulai)
+		- Azizah memberikan form penilaian kpd dosen, dosen memberikan kembali yg sudah dinilai
+		- Publish nilai (di print => tempel di mading)
+7. Keuangan
+8. Orang tua wali / pihak luar yang berkepentingan
+9. Pembina Mahasiswa
+10. Perpustakaan
+	- Pelayanan dan peminjaman buku
+	- Pengolahan bahan pustaka (buku/majalah/dll)
+	- shelving (penataan buku yg ada)
+	- Manajemen data di sistem SLIMS senayan (buku,anggota,PEMINJAAN,PENGEMBALIAN, denda, pelabelan buku, stok obname)

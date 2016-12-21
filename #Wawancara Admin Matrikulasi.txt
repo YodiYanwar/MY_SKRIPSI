@@ -1,0 +1,46 @@
+Syarat Lulus :
+	1. Hafal juz 30[37 surah] (toleransi - 80% dari persurat juz 30[30 surah]) ->
+	2. Memenuhi 80% pembinaan [toleransi]
+		- Shalat wajib berjamaah (bobot 60%) 
+		- Ta'lim (25%)
+		- Tahsin Tahfiz (15%) 
+	3. IPK (min 1,75) [mutlak]
+	4. Lulus TLC B.arab & b.inggris (min 70) [mutlak]
+
+
+Penambahan Poin 2 (untuk nilai pembinaan >70%):
+#Tahajjud (absensi) [nilai min 90 dari 1 semester per minggu (min 1 pekan 1 tahajjud)]
+#Akhlak / attitude => pelanggaran (poin)
+#puasa (absensi) [nilai min 90 dari 1 semester per minggu (min 1 pekan 1 puasa)]
+
+
+Alur Proses (Admin Matrik)
+1. Pengumpulan data dari 
+	akademik : 	- IPK
+	matrikulasi : 	- Hafalan
+			- Pembinaan ibadah
+	TLC: 		- Nilai akhir B.inggris
+			- Nilai akhir B.Arab
+
+2. Pertimbangan (2 bulan terakhir nilai shalat diatas 90%)
+3. Disortir (mana yg lulus mana yg tidak)
+4. Pengumuman Nilai Matrikulasi
+5. Bagi yg tidak lulus, optional mengikuti semester pendek
+6. Setelah semester pendek, kembali ke poin 2
+7. Ditentukan Kelulusan Oleh Ketua Matrik
+
+
+Pilihan Model yg digunakan :
+MADM
+Topsis
+
+Alasan : 
+
+
+Judul : "Rancang Bangun Sistem Penunjang Keputusan Rekomendasi Kelulusan Mahasiswa Matrikulasi di Stei Tazkia Menggunakan Metode ___"
+RANCANG BANGUN SISTEM PENUNJANG KEPUTUSAN REKOMENDASI KELULUSAN MAHASISWA MATRIKULASI DI STEI TAZKIA
+
+permasalahan
+output
+dimana
+metode penyelesaian masalah
