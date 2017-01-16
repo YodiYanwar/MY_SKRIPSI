@@ -1,0 +1,11 @@
+metodologi : Prosedur dalam pemecahan masalah dari sistem yang ada untuk membangun sistem yang baru
+
+Teknik dasar SSAD :
+1. Dekomposisi fungsional dengan pendekatan top-down
+2. Scope sistem didefinisikan kedalam model fisik dari sistem yg dianalis. Tujuan analis : 
+	- Apa yg harus dilakukan oleh sistem yang akan dibangun
+	- bagaimana sistem akan bekerja
+3. Membutuhkan keterlibatan pengguna dalam menyesuaikan dengan kebutuhan
+4. Dua konsen utama dalam pembangunan sistem yaitu PROSES & DATA
+	Proses : digambarkan dengan DFD yang mengilustrasikan aliran data antara proses dan data store (storage media)
+	Data   : Digambarkan dengan ERD yang mendeskripsikan data dan berbagai asosiasi antar komponennya.
