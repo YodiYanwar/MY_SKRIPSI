@@ -1,0 +1,15 @@
+Aktor :
+
+1. Ketua Matrikulasi
+	- menampilkan semu data monitoring
+	- mencetak semua laporan aktifitas monitoring
+
+2. Admin Matrikulasi
+	- 
+
+3. Admin Akademik
+4. Admin TLC
+5. Dosen
+6. Mahasiswa
+7. Pembina Mahasiswa
+8. Orang Tua Mahasiswa
