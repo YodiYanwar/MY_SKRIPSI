@@ -1,15 +1,13 @@
 Aktor :
 
 1. Ketua Matrikulasi
-	- menampilkan semu data monitoring
-	- mencetak semua laporan aktifitas monitoring
+ 	output : 
+	- informasi presensi shalat wajib mahasiswa
+	- informasi presensi tahsin/tahfidz mahasiswa
+	- informasi presensi ta'lim mahasiswa
 
 2. Admin Matrikulasi
 	- 
-
-3. Admin Akademik
-4. Admin TLC
-5. Dosen
-6. Mahasiswa
-7. Pembina Mahasiswa
-8. Orang Tua Mahasiswa
+3. Mahasiswa
+4. Pembina Mahasiswa
+5. Orang Tua Mahasiswa
