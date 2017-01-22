@@ -1,0 +1,6 @@
+Analisis Sistem yang sedang berjalan : 
+1. Proses absensi shalat wajib berjama'ah mahasiswa
+2. Proses absensi tahsin/tahfidz
+3. Proses absensi ta'lim
+4. Proses setoran hafalan quran mahasiswa
+5. Proses input pelanggaran mahasiswa
