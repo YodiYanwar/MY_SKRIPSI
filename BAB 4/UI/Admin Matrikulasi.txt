@@ -1,0 +1,43 @@
+============================== ADMIN MATRIK ================================
+1. Dashboard
+	- Rata2 nilai shalat wajib (ikhwan & akhwat)
+	- Rata2 nilai tahsin/tahfidz wajib (ikhwan & akhwat)
+	- Rata2 nilai ta'lim (ikhwan & akhwat)
+	- Rata2 Jumlah surah hafalan mahasiswa (ikhwan & akhwat)
+
+2. Presensi Shalat wajib
+	- Import DB finger print
+	- pratinjau presensi mahasiswa
+	- Lihat Data presensi
+	- Tambah Manual
+	- Edit
+	- Hapus
+
+3. Presensi tahsin/tahfidz
+	- pratinjau presensi mahasiswa
+	- Lihat Data presensi
+	- Tambah Manual
+	- Edit
+	- Hapus	
+
+4. Presensi ta'lim
+	- Import DB finger print
+	- pratinjau presensi mahasiswa
+	- Lihat Data presensi
+	- Tambah Manual
+	- Edit
+	- Hapus
+
+5. Hafalan Quran
+	- Validasi hafalan quran
+	- Menentukan target hafalan (ketua matrikulasi)
+	- 
+
+6. Pelanggaran
+
+5. Laporan
+	- Laporan Shalat wajib berjamaah (ikhwan/akhwat)
+	- Laporan Tahsin/tahfidz (ikhwan/akhwat)
+	- Laporan Ta'lim (ikhwan/akhwat)
+	- Laporan Hafalan Quran (ikhwan/akhwat)
+	- Laporan Pelanggaran (ikhwan/akhwat)
