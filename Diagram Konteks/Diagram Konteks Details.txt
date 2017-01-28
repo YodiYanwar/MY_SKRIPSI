@@ -1,0 +1,66 @@
+==================== Ketua Matrikulasi ====================
+Input :
+1. Target hafalan mahasiswa
+2. deskripsi surat peringatan
+3. validasi berita acara konseling
+
+Output :
+1. Data Presensi mahasiswa
+2. Laporan presensi mahasiswa
+3. laporan pembinaan bulanan
+4. Laporan hafalan quran
+5. Data pelanggaran mahasiswa
+6. Berita acara konseling mahasiswa
+
+
+==================== Admin Matrikulasi ====================
+Input :
+1. Validasi presensi mahasiswa
+2. import database finger print
+3. validsai hafalan mahasiswa
+
+Output :
+1. Data presensi mahasiswa
+2. Laporan presensi mahasiswa
+3. Laporan pembinaan bulanan
+4. Data hafalan mahasiswa
+5. Laporan hafalan quran mahasiswa
+6. Data pelanggaran mahasiswa
+
+==================== Mahasiswa ====================
+Output :
+1. Data presensi mahasiswa
+2. Laporan presensi mahasiswa
+3. Laporan pembinaan bulanan
+4. Data hafalan mahasiswa
+5. Laporan hafalan quran mahasiswa
+6. Data pelanggaran mahasiswa
+7. Berita acara konseling mahasiswa
+8. Surat peringatan mahasiswa
+9. Laporan pelanggaran mahasiswa
+
+==================== Pembina Mahasiswa ====================
+Input : 
+1. Status keterangan presensi mahasiswa
+2. Deskripsi pembinaan mahasiswa bulanan
+3. data hafalan mahasiswa
+4. Berita acara konseling mahasiswa
+
+Output :
+1. Data presensi mahasiswa
+2. Laporan presensi mahasiswa
+3. Data hafalan mahasiswa
+4. Laporan hafalan quran mahasiswa
+5. Data pelanggaran mahasiswa
+6. Laporan pelanggaran mahasiswa
+
+==================== Orang tua Mahasiswa ====================
+Output : 
+1. Data presensi mahasiswa
+2. Laporan presensi mahasiswa
+3. Laporan pembinaan bulanan
+4. Data hafalan mahasiswa
+5. Laporan hafalan quran mahasiswa
+6. Data pelanggaran mahasiswa
+7. Berita acara konseling mahasiswa
+8. Laporan pelanggaran mahasiswa
