@@ -11,7 +11,7 @@ Output :
 4. Laporan hafalan quran
 5. Data pelanggaran mahasiswa
 6. Berita acara konseling mahasiswa
-
+7. Laporan pelanggaran mahasiswa
 
 ==================== Admin Matrikulasi ====================
 Input :
@@ -26,6 +26,7 @@ Output :
 4. Data hafalan mahasiswa
 5. Laporan hafalan quran mahasiswa
 6. Data pelanggaran mahasiswa
+7. Laporan pelanggaran mahasiswa
 
 ==================== Mahasiswa ====================
 Output :

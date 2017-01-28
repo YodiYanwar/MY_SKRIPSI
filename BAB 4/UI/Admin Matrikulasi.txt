@@ -30,8 +30,6 @@
 
 5. Hafalan Quran
 	- Validasi hafalan quran
-	- Menentukan target hafalan (ketua matrikulasi)
-	- 
 
 6. Pelanggaran
 
