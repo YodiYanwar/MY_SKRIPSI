@@ -7,7 +7,6 @@
 
 2. Presensi Shalat wajib
 	- Import DB finger print
-	- pratinjau presensi mahasiswa
 	- Lihat Data presensi
 	- Tambah Manual
 	- Edit
