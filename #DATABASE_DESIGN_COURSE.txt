@@ -1,0 +1,20 @@
+Kamis 28/12/2017
+
+Normalisasi Database	: Pendekatan sistematis untuk menimimalkan redundansi data agar database dapat bekerja dengan optimal
+Tujuan			: 1. Mengurangi dan menghliangkan redudansi data 
+			  2. Memastikan dependensi data (data berada pada table yan tepat)
+
+
+https://www.lucidchart.com/pages/database-diagram/database-design
+
+Struktur database dikakatan bagus/baik ketika :
+	1. Menghemat ruang penyimpanan dengan menguranggi redundansi data
+	2. Menjaga akurasi dan integrasi data
+
+Proses mendesain database :
+	1. Requirement Analisys, mengidentifikasi maksud & tujuan dibuatnya database
+	2. Merangkai data kedalam table
+	3. Menentukan primary key dan menganalisa relasi
+
+
+=> Kardinalitas : Jumlah elemen yang saling berinteraksi diantara 2 table
