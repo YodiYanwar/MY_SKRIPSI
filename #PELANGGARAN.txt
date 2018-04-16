@@ -29,15 +29,60 @@ Hukuman/Tindak Lanjut (Nama Hukuman, Jumlah pelanggaran), hukuman bisa jadi tida
 DB
 
 `planjut table
-id_planjut, nama_tindakan
+id_planjut, nama_tindaklanjut
 
+CREATE TABLE planjut(
+id_planjut int primary key auto_increment, nama_tindaklanjut varchar(50), level int(1)
+) engine=innodb;
+
+INSERT INTO `planjut` (`nama_tindaklanjut`, `level`) VALUES ('Diberikan nasehat', 1), ('Barang disita', 2), ('Anulir 5% Nilai Pembinaan', 3), ('Anulir 10% Nilai Pembinaan', 4), ('Anulir 20% Nilai Pembinaan', 5), ('Anulir 30% Nilai Pembinaan', 6), ('Diskors', 7), ('Anulir 1 Semester Nilai Pembinaan', 8), ('Anulir 2 Semester Nilai Pembinaan', 9), ('Drop out', 10);
+=================================================
 `psanksi table
 id_psanksi, nama_sanksi, bobot
 
+CREATE TABLE psanksi(
+id_psanksi int primary key auto_increment, nama_sanksi varchar(5), bobot varchar(7)
+)engine=innodb;
+=================================================
 `paksi table
 id_paksi, nama_aksi
 
-`pebtuk table
+CREATE TABLE paksi(
+id_paksi int primary key auto_increment, nama_aksi varchar(50)
+)engine=innodb;
+=================================================
+`pbentuk table
 id_pbentuk, nama_bentuk
 
+CREATE TABLE pbentuk(
+id_pbentuk int primary key auto_increment, nama_bentuk varchar(100)
+)engine=innodb;
+=================================================
 `pelanggaran table
+id_pelanggaran, id_mhsbinaan,  id_pbentuk, id_paksi, id_psanksi, id_planjut, deskripsi, tanggal
+
+CREATE TABLE pmain(
+id_pelanggaran int primary key auto_increment, 
+id_mhsbinaan int, 
+id_pbentuk int, 
+id_paksi int,
+id_psanksi int,
+id_planjut int,
+deskripsi varchar(255),
+tanggal date,
+FOREIGN KEY (id_mhsbinaan) REFERENCES m_binaan(id_mhsbinaan),
+FOREIGN KEY (id_pbentuk) REFERENCES pbentuk(id_pbentuk),
+FOREIGN KEY (id_paksi) REFERENCES paksi(id_paksi),
+FOREIGN KEY (id_psanksi) REFERENCES psanksi(id_psanksi),
+FOREIGN KEY (id_planjut) REFERENCES planjut(id_planjut)
+) engine=innodb;
+
+=================================================
+
+UI Input Pelanggaran Mahasiswa (Role Pembina)
+
+tanggal 		: <inputtext:datepicker:settle-value:now()>
+Melakukan Pelanggaran 	: <input text:autocomplete-from-paksi>
+Deskripsi 		: <input textarea>
+sanksi 			: <input select:from psanksi>
+tindak lanjut		: <input text:autocomplete-from-planjut>
