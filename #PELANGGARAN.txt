@@ -1,0 +1,43 @@
+# Pelanggaran
+Doc
+
+Berita Acara konseling :
+	- Waktu, hari & tanggal
+	- Jenis konseling (pelanggaran aturan asrama matrikulasi)
+	- Nama mahasiswa
+	- NIM
+	- Alamat
+	- Deskripsi pelanggaran (mengalami permasalahan)
+	- Tindak lanjut (keputusan & penanggulangan)
+
+Bentuk pelanggaran(-), contoh pelanggaran(*), sanksi(=) :
+
+1	- Melakukan perbuatan maksiat yang dapat mencemarkan nama baik pribadi dan atau Stei tazkia
+	* mencuri, mengkonsumsi miras, narkoba, pornografi, pornograksi, zina
+	=  SP3(dianulir absensi pembinaan minimal 1 semester) atau dikeluarkan dari kampus
+
+======================================================================================================
+UI
+
+Ikhtisar (id_pelanggaran, tanggal, Nama Pelanggaran, bentuk pelanggaran, Ikhwan/Akhwat, Sanksi, Tindak Lanjut)
+Bentuk pelanggaran (Bentuk pelangaran, Jumlah pelanggaran)
+Contoh pelanggaran (nama pelanggaran, Jumlah pelanggaran)
+Sanksi (Sanksi, bobot sanksi, Jumlah pelanggaran) => 1 sanksi bisa memiliki lebih dari 1 hukuman/tindak lanjut,
+Hukuman/Tindak Lanjut (Nama Hukuman, Jumlah pelanggaran), hukuman bisa jadi tidak memerlukan sanksi ex:teguran
+
+======================================================================================================
+DB
+
+`planjut table
+id_planjut, nama_tindakan
+
+`psanksi table
+id_psanksi, nama_sanksi, bobot
+
+`paksi table
+id_paksi, nama_aksi
+
+`pebtuk table
+id_pbentuk, nama_bentuk
+
+`pelanggaran table
