@@ -1,7 +1,8 @@
 Kamis 28/12/2017
 
 Normalisasi Database	: Pendekatan sistematis untuk menimimalkan redundansi data agar database dapat bekerja dengan optimal
-Tujuan			: 1. Mengurangi dan menghliangkan redudansi data 
+
+Tujuan			: 1. Mengurangi dan menghilangkan redudansi data 
 			  2. Memastikan dependensi data (data berada pada table yan tepat)
 
 
