@@ -1,0 +1,7 @@
+Source			: http://belajarlatihanbersama.blogspot.com/2015/12/analisa-perancangan-sistem-informasi.html
+
+Definisi		: Menggambarkan bagaimana data ditransformasikan kedalam sistem, serta fungsi-fungsi yang mentransformasikan data
+Diagram Konteks 	: Gambaran sistem secara keseluruhan
+
+Referensi Simbol	: - Yourdan dan De Marco
+			  - Gene dan Serson 
