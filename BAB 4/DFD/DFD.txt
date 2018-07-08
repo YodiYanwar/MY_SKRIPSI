@@ -6,7 +6,7 @@ Referensi Simbol	: - Yourdan dan De Marco
 			  - Gene dan Serson 
 
 
-Proses :
+Proses (GA PERLU PAKAI PROSES "MELIHAT"): 
 1. Proses Login
 2. Proses kelola pengguna (pembina, mahasiswa, orang tua mahasiswa)
 3. Proses pencatatan presensi
