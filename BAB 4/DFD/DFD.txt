@@ -1,7 +1,31 @@
-Source			: http://belajarlatihanbersama.blogspot.com/2015/12/analisa-perancangan-sistem-informasi.html
-
 Definisi		: Menggambarkan bagaimana data ditransformasikan kedalam sistem, serta fungsi-fungsi yang mentransformasikan data
+Nama lain		: Bubble Chart, bubble diagram, 
 Diagram Konteks 	: Gambaran sistem secara keseluruhan
 
 Referensi Simbol	: - Yourdan dan De Marco
 			  - Gene dan Serson 
+
+
+Proses :
+1. Proses Login
+2. Proses kelola pengguna (pembina, mahasiswa, orang tua mahasiswa)
+3. Proses pencatatan presensi
+4. Proses pencatatan hafalan quran
+5. Proses pencatatan pelanggaran
+6. Proses perhitungan nilai presensi
+4. Proses kelola mahasiswa binaan
+5. Proses pencatatan presensi shalat
+6. Proses pencatatan presensi ta'lim
+7. Proses pencatatan presensi tahsin/tahfidz
+8. Proses pencatatan hafalan quran
+9. Proses pencatatan pelanggaran
+6. Proses perhitungan nilai presensi
+7. Proses pencatatan absensi tahsin/tahfidz
+
+
+Source			: http://belajarlatihanbersama.blogspot.com/2015/12/analisa-perancangan-sistem-informasi.html
+https://mane3x.wordpress.com/2013/03/29/konsep-perancangan-terstruktur-dfd-data-flow-diagram/
+http://www.pro.co.id/pengertian-dan-contoh-data-flow-diagram-dfd/
+http://belajarlatihanbersama.blogspot.com/2015/12/membuat-data-flow-diagram-dfd.html
+http://belajarlatihanbersama.blogspot.com/2015/12/analisa-perancangan-sistem-informasi.html
+http://infocenter.sybase.com/help/index.jsp?topic=/com.sybase.infocenter.dc38088.1610/doc/html/rad1232026238221.html
