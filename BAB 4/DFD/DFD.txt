@@ -13,14 +13,6 @@ Proses (GA PERLU PAKAI PROSES "MELIHAT"):
 4. Proses pencatatan hafalan quran
 5. Proses pencatatan pelanggaran
 6. Proses perhitungan nilai presensi
-4. Proses kelola mahasiswa binaan
-5. Proses pencatatan presensi shalat
-6. Proses pencatatan presensi ta'lim
-7. Proses pencatatan presensi tahsin/tahfidz
-8. Proses pencatatan hafalan quran
-9. Proses pencatatan pelanggaran
-6. Proses perhitungan nilai presensi
-7. Proses pencatatan absensi tahsin/tahfidz
 
 
 Source			: http://belajarlatihanbersama.blogspot.com/2015/12/analisa-perancangan-sistem-informasi.html
