@@ -1,0 +1,26 @@
+user 				: id, username, password, password_default, level, terakhir_login
+adminmatrikulasi 		: id, id_user, nama, telepon, email, gender, tanggal_lahir, avatar
+semester			: id, semester, dari, sampai
+pembina_mahasiswa		: id, id_user, gender, tanggal_lahir, gelar, kota_asal, email, telepon, avatar
+mahasiswa			: id, id_user, nama, angkatan, gender, kota_asal, tanggal_lahir, email, telepon, avatar
+mahasiswa_binaan		: id_pembina_mahasiswa, id_mahasiswa
+orang_tua_mahasiswa		: id, id_user, id_mahasiswa, nama, telepon, email, alamat, avatar
+pimpinan			: id, id_user, nama, telepon, email, gender, tanggal_lahir, avatar
+target_hafalan			: id, id_juz_quran, id_semester
+periode				: id, tanggal_dari, tanggal_sampai
+jadwal_pulang			: id_periode, tanggal, gender, shubuh, dzuhur, ashar, maghrib, isya
+presensi_shalat			: id_mahasiswa, id_periode, tanggal, shubuh, dzuhur, ashar, maghrib, isya
+presensi_shalat_udzur		: id, id_periode, id_mahasiswa, tanggal, waktu_shalat, udzur, diajukan, disetujui, direview
+presensi_shalat_manual		: id, id_periode, id_mahasiswa, tanggal, waktu_shalat, diajukan, disetujui, direview
+presensi_talim			: 
+presensi_talim_udzur		: id, id_periode, id_mahasiswa, tanggal, talim, udzur, diajukan, disetujui, direview
+tahsin				: id, id_pembina, tanggal, tahsin, waktu_input, keterangan
+presensi_tahsin			: id_tahsin, id_mahasiswa
+presensi_tahsin_udzur		: id, id_tahsin, id_mahasiswa, udzur, keterangan, diajukan, direview, disetujui
+juz_quran			: id, juz, deskripsi
+surah_quran			: id, id_juz, no_surah, nama_surah, jumlah_ayat
+setor_hafalan_mahasiswa		: id, id_mahasiswa, id_surah, keterangan, tanggal_setor, waktu_input
+jenis_pelanggaran		: id, jenis_pelangaran, aksi_pelanggaran
+sanksi_pelanggaran		: id, sanksi_pelanggaran, bobot
+sanksi_jenis_pelanggaran	: id, id_jenis_pelanggaran, id_sanksi_pelanggaran
+pelanggaran_mahasiswa		: id, id_mahasiswa, id_sanksi_jenis_pelanggaran, keterangan, tanggal, waktu_input
