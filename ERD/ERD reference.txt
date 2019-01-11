@@ -1,0 +1,4 @@
+https://fairuzelsaid.wordpress.com/2010/03/16/sistem-basis-data-entity-relationship-diagram-erd/
+https://www.smartdraw.com/entity-relationship-diagram/#ERDSymbols
+https://www.tutorialcup.com/dbms/er-model-into-tables.htm
+http://codeoke.blogspot.com/2012/10/transformasi-ke-Basis-data-fisik.html
