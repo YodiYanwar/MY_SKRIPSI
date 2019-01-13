@@ -1,0 +1,12 @@
+#Rumusan Masalah :
+1. Bagaimana membangun sistem yang dapat membantu admin matrikulasi dalam melakukan tugas administratif kegiatan matrikulasi mahasiswa
+2. Bagaimana membangun sistem yang dapat memberikan informasi progres hafalan quran mahasiswa, informasi pelanggaran mahasiswa dan informasi nilai pencapaian mahasiswa kepada orang tua mahasiswa
+
+#Tujuan Penelitian :
+1. Menghasilkan sistem yang dapat membantu admin matrikulasi dalam melakukan tugas administratif kegiatan matrikulasi mahasiswa
+2. Menghasilkan sistem yang dapat memberikan informasi progres hafalan quran mahasiswa, informasi pelanggaran mahasiswa dan informasi nilai pencapaian mahasiswa kepada orang tua mahasiswa
+
+#Manfaat Penelitian
+1. Mempersingkat waktu dalam proses menghitung nilai pencapaian keseluruhan kegiatan matrikulasi mahasiswa
+2. Memberi kemudahan untuk mendapatkan informasi lebih detil mengenai data presensi kegiatan matrikulasi mahasiswa yang berasal dari mesin fingerprint
+3. Memberi kemudahan bagi orang tua mahasiswa untuk mendapatkan informasi progres hafalan quran mahasiswa, informasi pelanggaran mahasiswa dan informasi nilai pencapaian mahasiswa.
