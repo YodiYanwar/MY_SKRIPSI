@@ -1,3 +1,10 @@
+#Latar belakang
+1. Bahas tentang matrikulasi
+Matrikulasi adalah kegiatan pembelajaran tambahan untuk menyetarakan pengetahuan peserta didik agar dapat mengikuti program pendidikan yang akan diikuti 
+2. Kurikulum STEI dikembangkan mengacu pada Standar Nasional Pendidikan
+Tinggi untuk setiap Program Studi yang mencakup pengembangan kecerdasan
+intelektual, akhlak mulia, dan keterampilan
+
 #Rumusan Masalah :
 1. Bagaimana membangun sistem yang dapat membantu admin matrikulasi dalam melakukan tugas administratif kegiatan matrikulasi mahasiswa
 2. Bagaimana membangun sistem yang dapat memberikan informasi progres hafalan quran mahasiswa, informasi pelanggaran mahasiswa dan informasi nilai pencapaian mahasiswa kepada orang tua mahasiswa
