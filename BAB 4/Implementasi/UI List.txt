@@ -1,0 +1,33 @@
+1 halaman login
+2 halaman dashboard
+3 halaman detil data mahasiswa
+4 halaman data mahasiswa
+5 halaman import data mahasiswa
+6 halaman data pembina mahasiswa
+7 halaman detil data pembina mahasiswa
+8 halaman tambah data pembina mahasiswa
+9 halaman tambah data mahasiswa binaan
+
+10 halaman tambah data semester
+11 halaman data pekan
+12 halaman tambah data jadwal kepulangan
+
+13 halaman import data presensi shalat
+14 halaman data pekan presensi shalat
+15 halaman informasi nilai presensi shalat
+16 halaman input data udzur shalat
+17 halaman input presetujuan udzur shalat
+
+18 halaman informasi nilai presensi ta'lim
+19 halaman tambah data ta'lim & input presensi ta'lim
+20 halaman data pekan presensi ta'lim
+21 halaman input data udzur ta'lim
+22 halaman input presetujuan udzur ta'lim
+
+23 halaman informasi nilai presensi tahsin/tahfidz
+24 halaman tambah data tahsin/tahfidz & input presensi tahsin/tahfidz
+25 halaman data pekan presensi tahsin/tahfidz
+26 halaman input data udzur tahsin/tahfidz
+27 halaman input presetujuan udzur
+
+28 halaman informasi nilai presensi total
