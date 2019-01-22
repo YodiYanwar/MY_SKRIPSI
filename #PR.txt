@@ -1,0 +1,9 @@
+update DFD 
+- proses cetak laporan
+	kelola shalat
+	kelola ta'lim
+	kelola tahsin
+	nilai total
+- hapus data informasi nilai mahasiswa binaan
+- replace nilai total to nilai presensi total
+- recheck numbering of DFD level 
