@@ -1,10 +1,8 @@
 1 halaman login
 2 halaman dashboard
-3 halaman detil data mahasiswa
 4 halaman data mahasiswa
 5 halaman import data mahasiswa
 6 halaman data pembina mahasiswa
-7 halaman detil data pembina mahasiswa
 8 halaman tambah data pembina mahasiswa
 9 halaman tambah data mahasiswa binaan
 
