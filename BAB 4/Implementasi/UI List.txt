@@ -7,27 +7,27 @@ data pembina mahasiswa DONE
 tambah data pembina mahasiswa DONE
 tambah data mahasiswa binaan DONE
 
-tambah data semester
-data pekan
+tambah data semester  DONE
+data pekan  DONE
 data jadwal kepulangan DONE
 
 import data presensi shalat DONE
 data pekan presensi shalat DONE
-informasi nilai presensi shalat
+informasi nilai presensi shalat DONE
 input data udzur shalat DONE
 input persetujuan udzur shalat DONE
 
 data pekan presensi ta'lim DONE
-informasi nilai presensi ta'lim
+informasi nilai presensi ta'lim  DONE
 tambah data ta'lim & input presensi ta'lim DONE
 input data udzur ta'lim DONE
-input persetujuan udzur ta'lim
+input persetujuan udzur ta'lim DONE
 
 data pekan presensi tahsin/tahfidz DONE
-informasi nilai presensi tahsin/tahfidz
+informasi nilai presensi tahsin/tahfidz  DONE
 tambah data ta'lim & input presensi tahsin/tahfidz DONE
 input data udzur tahsin/tahfidz DONE
-input persetujuan udzur tahsin/tahfidz
+input persetujuan udzur tahsin/tahfidz DONE
 
 data pekan presensi total DONE
-informasi nilai presensi total
+informasi nilai presensi total  DONE
