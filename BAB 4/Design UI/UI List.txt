@@ -1,11 +1,42 @@
-- login
-- halaman utama
+login
+halaman utama
+data semester
+data pekan
+input data jadwal kepulangan
+tambah data mahasiswa
+edit data mahasiswa
+tambah data pembina mahasiswa
+edit data pembina mahasiswa
+tambah data mahasiswa binaan
+data mahasiswa binaan
+import database presensi shalat
+input data udzur shalat
+input persetujuan udzur shalat
+data udzur shalat
+data pekan presensi shalat
+nilai presensi shalat
+tambah data ta'lim & input presensi ta'lim
+input data udzur ta'lim
+input persetujuan udzur ta'lim
+data udzur ta'lim
+data pekan presensi ta'lim
+nilai presensi ta'lim
+tambah data ta'lim & input presensi tahsin/tahfidz
+input data udzur tahsin/tahfidz
+input persetujuan udzur tahsin/tahfidz
+data udzur tahsin/tahfidz
+data pekan presensi tahsin/tahfidz
+nilai presensi tahsin/tahfidz
+data pekan presensi total
+nilai presensi total
 
 - data mahasiswa
 - import data mahasiswa
 - data pembina mahasiswa
 - tambah pembina mahasiswa
 - edit data pembina mahasiswa
+
+
 
 - data semester
 - tambah data semester
