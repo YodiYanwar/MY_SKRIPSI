@@ -1,2 +1,4 @@
+- redesign tabel udzur_shalat
 - cek sync ERD & struktur tabel
 - update urutan daftar pustaka
+- cek fungsi import db shalat
