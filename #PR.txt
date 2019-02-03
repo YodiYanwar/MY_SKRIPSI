@@ -1,4 +1,12 @@
-- redesign tabel udzur_shalat
+- redesign tabel udzur_shalat satukan 
 - cek sync ERD & struktur tabel
 - update urutan daftar pustaka
 - cek fungsi import db shalat
+
+mysql_real_escape_string(htmlentities($udzur))
+
+SELECT p.pekan, us.tanggal, us.nim, m.nama, CONCAT(IF(us.shubuh = 1, 'shubuh, ', ''), IF(us.dzuhur = 1, 'dzuhur, ', ''), IF(us.ashar = 1, 'ashar, ', ''), IF(us.maghrib = 1, 'maghrib, ', ''), IF(us.isya = 1, 'isya, ', '')) AS wkt, (us.shubuh+us.dzuhur+ us.ashar+us.maghrib+us.isya) AS jmlu, us.udzur, us.keterangan, us.disetujui, us.diajukan FROM udzur_shalat us LEFT JOIN mahasiswa m ON us.nim = m.nim LEFT JOIN pekan p ON us.id_pekan = p.id_pekan WHERE m.id_pembina = '$idPembina' ORDER BY us.diajukan DESC
+
+(SELECT p.id_pekan FROM pekan p WHERE '$tgl_' BETWEEN p.tanggal_dari AND p.tanggal_sampai)
+
+mysql_real_escape_string(htmlentities($udzur))
