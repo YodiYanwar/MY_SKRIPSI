@@ -1,0 +1,2 @@
+4.5	Operation and Maintenance
+Sistem ini telah didemonstrasikan kepada admin matrikulasi, pimpinan, pembina mahasiswa dan mahasiswa. Hasilnya sistem sesuai  dengan harapan dan mereka mengharapkan sistem ini diterapkan untuk mengelola data yang sebenarnya .Kemudian dilakukan demonstrasi import data presensi shalat, tambah data presensi ta’lim dan data presensi tahsin/tahfidz lalu sistem menghasilkan informasi sesuai yang dibutuhkan oleh user.
