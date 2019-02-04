@@ -1,74 +1,43 @@
-login
-halaman utama
+Login DONE
+dashboard DONE
+import data presensi shalat
+tambah data talim & input presensi talim
+tambah data tahsin & input presensi tahsin
+data pekan presensi total
+nilai presensi total
+tambah data pembina mahasiswa
+edit data pembina mahasiswa
+data pembina mahasiswa
+tambah data mahasiswa
+edit data mahasiswa
+data mahasiswa
+tambah data pimpinan
+edit data pimpinan
+data pimpinan
+data user
+reset password default	
+ubah password
+input data semester
 data semester
 data pekan
 input data jadwal kepulangan
-tambah data mahasiswa
-edit data mahasiswa
-tambah data pembina mahasiswa
-edit data pembina mahasiswa
-tambah data mahasiswa binaan
-data mahasiswa binaan
-import database presensi shalat
+data jadwal kepulangan
 input data udzur shalat
-input persetujuan udzur shalat
+input persetujuan udzur shalat setuju
+input persetujuan udzur shalat tolak
 data udzur shalat
 data pekan presensi shalat
 nilai presensi shalat
-tambah data ta'lim & input presensi ta'lim
-input data udzur ta'lim
-input persetujuan udzur ta'lim
-data udzur ta'lim
-data pekan presensi ta'lim
-nilai presensi ta'lim
-tambah data ta'lim & input presensi tahsin/tahfidz
-input data udzur tahsin/tahfidz
-input persetujuan udzur tahsin/tahfidz
-data udzur tahsin/tahfidz
-data pekan presensi tahsin/tahfidz
-nilai presensi tahsin/tahfidz
-data pekan presensi total
-nilai presensi total
+input data udzur talim
+input persetujuan udzur talim setuju
+input persetujuan udzur talim tolak
+data udzur talim
+data pekan presensi talim
+nilai presensi talim
+input data udzur tahsin
+input persetujuan udzur tahsin setuju
+input persetujuan udzur tahsin tolak
+data udzur tahsin
+data pekan presensi tahsin
+nilai presensi tahsin
 
-- data mahasiswa
-- import data mahasiswa
-- data pembina mahasiswa
-- tambah pembina mahasiswa
-- edit data pembina mahasiswa
-
-
-
-- data semester
-- tambah data semester
-- data pekan
-- daftar data jadwal kepulangan
-- data jadwal kepulangan
-- tambah data jadwal kepulangan
-
-
-- nilai presensi shalat mahasiswa DONE
-- import database presensi shalat mahasiswa DONE
-- data udzur shalat DONE
-- tambah data udzur shalat DONE
-- persetujuan udzur shalat DONE
-
-- presensi ta'lim mahasiswa per-pekan
-- nilai presensi ta'lim mahasiswa DONE
-- data ta'lim DONE
-- detil data ta'lim DONE
-- tambah data ta'lim & input presensi ta'lim DONE
-- ubah data ta'lim & presensi ta'lim DONE
-- data udzur ta'lim DONE
-- tambah data udzur ta'lim DONE
-- persetujuan udzur ta'lim DONE
-
-- nilai presensi tahsin/tahfidz mahasiswa DONE
-- data tahsin/tahfidz DONE
-- detil data tahsin/tahfidz DONE
-- tambah data tahsin/tahfidz & input presensi tahsin/tahfidz DONE
-- ubah data tahsin/tahfidz & presensi tahsin/tahfidz DONE
-- data udzur tahsin/tahfidz DONE
-- tambah data udzur tahsin/tahfidz DONE
-- persetujuan udzur tahsin/tahfidz DONE
-
-- nilai total mahasiswa DONE
