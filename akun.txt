@@ -1,0 +1,20 @@
+id_pembina = 13
+Lilik
+lilik123
+
+Ade Nurul Hita Alfiani
+18103033
+802l94FVUt
+
+Nursia Rumain
+18108024
+RyMr3vGSat
+
+======
+id_pembina = 8
+Rizki
+akbar123
+
+Ari Dezan Alfarishi
+18104001
+8M3303OD89

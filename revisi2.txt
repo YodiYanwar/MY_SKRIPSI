@@ -1,0 +1,13 @@
+revisi:
+1 diagram bisnis proses yang sedang berjalan pada kegiatan shalat DONE (29)
+2 diagram bisnis proses yang diusulkan pada kegiatan shalat DONE (34)
+3 diagram bisnis proses yang sedang berjalan pada kegiatan tahsin/tahfidz DONE (31)
+4 ubah bahan penelitian DONE (15)
+5 latar belakang
+6 Metode penelitian DONE (15)
+7 update hasil wawancara tambah penjelasan alur kegiatan shalat, ta'lim dan tahsin
+8 update bahan tambah hasil rekapitulasi presensi
+9 update metode penelitian bab 3 perencanaan : hasil wawancara, observasi
+
+
+Metode penelitian yang akan digunakan pada pengembangan sistem informasi monitoring proyek perangkat lunak di PT. Astech Alus Technology ini mengacu kepada metode waterfall. Berikut metode penelitian ini dijabarkan pada Gambar 3.1.

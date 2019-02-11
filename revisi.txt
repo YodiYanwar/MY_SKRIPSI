@@ -1,0 +1,28 @@
+0 revisi manfaat penelitian
+1 lanjut hasil wawacara
+2 revisi font penulisan rumus
+3 cari tahu cara menuliskan flowchat bersambung
+4 tulis referensi flowchart
+5 add flowchart system yang sedang berjalan pada kelola pengguna
+6 add flowchart system yang diusulkan pada kelola pengguna
+7 tambah rereferansi tentang matrikulasi
+
+1 Rumusan masalah & tujuan penelitian merancang dan membangun DONE
+2 revisi batasan masalah => bahas hafalan quran DONE
+3 format table notasi DFD DONE
+4 cari referensi notasi datastore CANCEL
+5 revisi notasi ERD
+6 tambah nomor rumus pada pejelasan progam matrik DONE
+7 buat lampiran excel di perhitungan setiap kegiatan di penjelasan kegiatan matrik
+8 tambah nomor table 
+9 revisi penomoran DFD DONE
+10 revisi DFD kelola pengguna DONE
+11 revisi primary key mahasiswa sbg NIM DONE
+
+Belum dikerjakan
+12 Blackbox testing DONE
+13 Hasil wawancara
+14 penomoran table, rumus
+14 page numbering
+15 daftar isi
+

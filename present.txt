@@ -1,0 +1,11 @@
+Pusat Matrikulasi bertugas untuk memberi bekal kepada mahasiswa untuk mendalami ilmu-ilmu yang diberikan dalam perkuliahan (program akademik) dan membina mahasiswa baru dalam penguatan akidah, amalan-amalan wajib, sunnah serta akhlak (program pembinaan) selama 2 semester pertama di Asrama Matrikulasi (Boarding)
+
+Program pembinaan memiliki beberapa kegiatan wajib yang menjadi penilaian meliputi (1) shalat, (2) ta’lim dan (3) tahsin/tahfidz dan kegiatan tambahan menghafal alquran. 
+
+Kegiatan tersebut dilakukan penilaian berdasar presensi kehadiran untuk mengukur sejauh mana mahasiswa melaksanakan dan menghadiri kegiatan. Dengan harapan semakin aktif partisipasi mahasiswa terhadap pelaksanaan kegiatan yang diwajibkan maka akan semakin berkembang pula kualitas akhlak, ibadah dan pengetahuan islami. Presensi kegiatan ta’lim dan tahsin/tahfidz diambil menggunakan formulir preseni manual sedangkan presensi shalat diambil menggunakan mesin fingerprint. 
+
+Namun belum ada sistem yang mengelola data kegiatan dan data presensi hingga menghasilkan output sesuai kebutuhan. Setiap pekan data presensi yang berasal dari mesin fingerprint maupun dari formulir presensi manual disalin kedalam aplikasi spreadsheet secara manual. 
+
+Banyaknya jumlah mahasiswa dan data presensi yang harus disalin membuat proses rekapitulasi membutuhkan waktu lebih lama hingga semua data presensi menjadi informasi nilai. Cara pengelolaan data semacam ini mengakibatkan sering terjadi keterlambatan penerbitan nilai dari waktu yang ditentukan.
+
+Berdasarkan uraian permasalahan yang terjadi, maka diperlukan suatu sistem yang dapat membantu mengelola data kegiatan dan data presensi pada kegiatan program pembinaan

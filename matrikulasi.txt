@@ -1,0 +1,13 @@
+Abstrak
+Abstrak Maksimal 250 kata berbahasa Indonesia dicetak miring dengan Times New Roman 11 point. Abstrak harus jelas, deskriptif dan harus memberikan gambaran singkat masalah yang diteliti. Abstrak meliputi alasan pemilihan topik atau pentingnya topik penelitian, metode penelitian dan ringkasan hasil. Abstrak harus diakhiri dengan komentar tentang pentingnya hasil atau kesimpulan singkat. 
+
+
+matrikulasi
+U. D. Susiaty, “Eksperimentasi Matrikulasi Ditinjau Dari Kecerdasan Interpersonal Mahasiswa Semester 1 Program Studi Pendidikan Matematika Ikip Pgri Pontianak,” Jurnal Pendidikan informatika dan Sains, vol. 5, no. 2016, Jun. 2016.
+
+
+Alasan pelanggan memilih menggunakan model Waterfall karena untuk mengaplikasikan model ini sangat mudah, dapat didefinisikan secara utuh dan benar diawal project maka sebuah sofware dapat berjalan dengan baik dan tanpa masalah. Kebutuhan sistem di awal project lebih ekonomis untuk soal biaya/lebih murah dan waktu yang terbuang lebih sedikit jika dibandingkan dengan masalah yang muncul pada tahap-tahap selanjutnya
+
+Alasan Menggunakan Waterfall
+
+Melihat keuntungan dari metode waterfall maka kami memutuskan untuk menggunakannya dimana pengaplikasian menggunakan model ini mudah, kelebihan dari model ini juga ketika semua kebutuhan sistem dapat didefinisikan secara utuh, eksplisit, dan benar di awal project, maka Waterfall dapat berjalan dengan baik dan tanpa masalah. Meskipun seringkali kebutuhan sistem tidak dapat didefinisikan seeksplisit yang diinginkan, tetapi paling tidak, problem pada kebutuhan sistem di awal project lebih ekonomis dalam hal uang (lebih murah), usaha, dan waktu yang terbuang lebih sedikit jika dibandingkan problem yang muncul pada tahap-tahap selanjutnya.
