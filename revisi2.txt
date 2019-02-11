@@ -8,6 +8,13 @@ revisi:
 7 update hasil wawancara tambah penjelasan alur kegiatan shalat, ta'lim dan tahsin
 8 update bahan tambah hasil rekapitulasi presensi
 9 update metode penelitian bab 3 perencanaan : hasil wawancara, observasi
+10 update diagram konteks output data
+11 update analisis keluaran sistem
 
 
 Metode penelitian yang akan digunakan pada pengembangan sistem informasi monitoring proyek perangkat lunak di PT. Astech Alus Technology ini mengacu kepada metode waterfall. Berikut metode penelitian ini dijabarkan pada Gambar 3.1.
+
+CARI JAWABAN : 
+- Data User itu apa?
+- Data Pekan itu apa?
+- Kenapa tidak ada Data Presensi Shalat?
