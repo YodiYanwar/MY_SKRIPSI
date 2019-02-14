@@ -1,0 +1,3 @@
+diverging = konsep alir data menyebar
+converging = konsep alir data mengumpul
+paket data = menyatukan 2 alir data
