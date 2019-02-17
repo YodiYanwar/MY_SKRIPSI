@@ -1,0 +1,291 @@
+.tdGlossary{
+	width:40px;
+text-align:center;
+}
+
+.glossary{
+border-color:white;
+width:95%;
+}
+
+
+.tableHeader
+{
+	background-color: #282828 ;
+        color:white;
+border: 1px solid #808080;
+}
+
+.rowOdd{
+	background-color:#C0C0C0 ;
+border: 1px solid #808080;
+}
+
+.rowEvent{
+	border: 1px solid #808080;
+}
+
+.rowEvent:hover, .rowOdd:hover{
+	background-color:#707070;
+color: white;
+}
+table
+{
+margin-left:10px;
+	border-collapse:collapse;
+}
+table, td, th{
+	
+}
+
+
+td
+{
+width:150px;
+height:25px;
+}
+
+
+
+
+body{
+	background:white url(images/BgBody.jpg) repeat-x scroll center top;
+	font-family:trebuchet ms,georgia,tahoma,sans-serif;
+	font-size:0.8em;
+	line-height:150%
+}
+#wrapper {
+	background:white url(images/BgWrap.jpg) repeat-x scroll center bottom;
+	text-align:justify;
+	background-color:white;
+	margin:0 auto;
+	min-height:700px;
+	width:1024px;
+	overflow: auto
+}
+
+#header{
+	background-color:white;
+	top:0;
+	margin:0 auto;
+	width:1024px;
+	overflow: auto
+}
+#headerCont{
+	background: transparent url(images/Headerv2.jpg) no-repeat top;
+	height:210px;
+	overflow:auto
+}
+#wrapMenu{
+	font-family:verdana;
+	font-size:0.8em;
+	background-color:white;
+	width:1024px;
+	margin:0 auto;
+	padding:0;
+	z-index:4
+}
+ul.menu{
+	list-style:none;
+	margin:0;
+	padding:0
+}
+ul.menu *{
+	margin:0;
+	padding:0
+	}
+ul.menu a{
+	display:block;
+	color:black;
+	text-decoration:none
+}
+ul.menu li{
+	position:relative;
+	float:left;
+	margin-right:0
+}
+ul.menu ul{
+	position:absolute;
+	top:26px;
+	left:0;
+	width:126px;
+	background:#AECDFF;
+	display:none;
+	opacity:0;
+	list-style:none
+}
+ul.menu ul li{
+	position:relative;
+	border:1px solid #e6e8e8;
+	border-top:none;
+	width:124px;
+	margin:0
+}
+ul.menu ul li a{
+	display:block;
+	padding:1px 7px 1px;
+	background-color:#dadada
+}
+ul.menu ul li a:hover{
+	background-color:#c8c8c8
+}
+ul.menu ul ul{
+	left:124px; top:-1px
+}
+ul.menu ul.left ul{
+	left:-124px; top:-1px
+}
+ul.menu .menulink{
+	border:1px solid #e7e7e7;
+	padding:5px 7px 7px;
+	font-weight:bold;
+	background:url(images/header.gif);
+	width:110px
+}
+ul.menu .menulink:hover, ul.menu .menuhover {
+	background:url(images/header_over.gif)
+}
+ul.menu .sub {
+	background:#dadada url(images/arrow.gif) 110px 8px no-repeat
+}
+ul.menu .subLeft {
+	background:#dadada url(images/arrowL.gif) 110px 8px no-repeat
+}
+ul.menu .topline {
+	border-top:1px solid #e7e7e7
+}
+
+#left ul{
+	margin:0;
+	padding:0;
+	list-style:none
+}
+#left ul li.top{
+	border-top:1px dotted black;
+	border-bottom:1px dotted black
+}
+#left ul li{
+	border-bottom:1px dotted black
+}
+#left ul li a{
+	font-family:verdana;
+	font-size:0.8em;
+	padding:0 10px;
+	display:block;
+	color:black;
+	text-decoration:none
+}
+#left ul li a:hover{
+	font-weight:bold;
+	color:white;
+	background-color:#747373
+}
+#left{
+	background:transparent url(images/left.gif) no-repeat scroll center bottom;
+	padding-bottom:70px;
+	margin:10px;
+	float:left;
+	width:250px;
+	overflow: auto
+}
+#left .post-border{
+	border-bottom:1px dotted black
+}
+#left h2{
+	font-size:1.0em;
+	line-height:150%
+}
+#right{
+	float:left;
+	width:744px;
+	overflow: auto
+}
+
+#right h2
+{
+font-family: "Trebuchet Ms", Helvetica, Arial, Verdana, sans-serif;
+font-size:20px;
+font-weight:bold;
+color:#150c8a;
+}
+
+#right h2 a
+{
+color:#150c8a;
+text-decoration:underline;
+}
+
+#right h2 a:hover
+{
+color:#150c8a;
+text-decoration:none;
+}
+
+#left h3
+{
+font-family: "Trebuchet Ms", Helvetica, Arial, Verdana, sans-serif;
+font-weight:bold;
+color:#150c8a;
+}
+
+#left h3 a
+{
+color:#150c8a;
+text-decoration:underline;
+}
+
+#left h3 a:hover
+{
+color:#150c8a;
+text-decoration:none;
+}
+
+#rightRight .post-border{
+	border-bottom:1px dotted black
+}
+#rightLeft{
+	margin:10px;
+	float:left;
+	width:454px;
+	overflow: auto
+}
+#wrapper a{
+	text-decoration:none;
+	color:black
+}
+#rightRight{
+	background:transparent url(images/right.gif) no-repeat scroll center bottom;
+	margin:10px;
+	padding-bottom:70px;
+	float:right;
+	width:250px;
+	overflow: auto
+}
+
+#rightRight h2{
+	font-size:1.0em;
+	line-height:150%
+}
+#searchWrapper{
+	position:relative;
+	top:160px;
+	right:40px;
+	float:right;
+	margin:auto;
+	padding:5px 5px 5px 0
+}
+#searchWrapper input{
+	font-size:11px;
+}
+
+#footer{
+	font-size:11px;
+	color:white;
+	margin:0 auto;
+	padding:5px 0 5px;
+	background-color:#37393c;
+	width:1024px;
+	text-align:center;
+	overflow: auto
+}
+
