@@ -10,7 +10,8 @@ Nursia Rumain
 18108024
 RyMr3vGSat
 
-======
+=========================================
+
 id_pembina = 8
 Rizki
 akbar123
@@ -18,3 +19,25 @@ akbar123
 Ari Dezan Alfarishi
 18104001
 8M3303OD89
+
+=========================================
+
+18101118
+Amanda Dwi Noviyanti
+5v22Nv208J
+
+
+Alfrida Yulistia S.E
+alfrida
+alfrida123
+
+=========================================
+
+Moh. Bintang Pamuncak S.E.I
+bintang
+bintang123
+
+
+Abdul Rozak Sidiq
+18103005
+jVDD9568nl
