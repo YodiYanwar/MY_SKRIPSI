@@ -1,0 +1,33 @@
+PEMBINA alfrida
+
+1. Tambah data 2 ta'lim (21 & 22 sep)
+	- 1 ta'lim hadir semua 
+	- 1 ta'lim 2 mhs tidak hadir (amanda & ayu astianti)
+
+2. Lihat nilai ta'lim
+
+3. Tambah data 2 tahsin/tahfidz (21 sep : ba'da shubuh & ba'da ashar)
+	- 1 tahsin hadir semua
+	- 1 tahsin 2 mhs tidak hadir (amanda & ayu astianti)
+
+4. Lihat nilai tahsin/tahfidz
+
+===================================================
+MAHASISWA 
+18101118
+Amanda Dwi Noviyanti
+5v22Nv208J
+
+5. Tambah data udzur ta'lim
+6. Lihat nilai ta'lim
+
+7. Tambah data udzur tahsin
+8. Lihat nilai tahsin/tahfidz
+
+===================================================
+ADMINMATRIK
+9. import data presensi shalat pekan 1
+
+==================================================
+PEMBINA
+10. lihat nilai presensi total

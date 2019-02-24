@@ -1,24 +1,23 @@
-1. [MATRIKULASI]
 matrikulasi adalah tahapan yang harus dilalui oleh mahasiswa baru STEI Tazkia pada 2 semester pertama dan mereka diwajibkan untuk tinggal di asrama matrikulasi
 
-2. [PROGRAM PEMBINAAN]
 program pembinaan adalah salah satu program di matrikulasi stei tazkia yang mendukung tercapainya tujuan matrikulasi yaitu menyetarakan pengetahuan peserta didik agar dapat mengikuti program pendidikan yang akan diikuti. 
 
-3. [PEMBINA MAHASISWA]
-Pada saat menjalani program pembinaan, mahasiswa secara berkelompok dibina oleh satu orang pembina mahasiswa. pembina mahasiswa bertugas untuk mengarahkan, memotivasi, membimbing dan mengedukasi mahasiswa terutama pada kegiatan yang ada di program pembinaan.
-
-4. [KEGIATAN]
 kegiatan program pembinaan di matrikulasi stei tazkia yang menjadi penilaian meliputi shalat, ta'lim tahsin/tahfidz dan kegiatan tambahan yaitu hafalan quran yang menjadi bagian kegiatan tahsin/tahfidz.
 
-5. [PENJELASAN KEGIATAN]
-Shalat adalah kegiatan peribadahan individual yang sudah umum diketahui
-Ta'lim adalah kegiatan penyampaian materi keislaman yang materinya diisi oleh pembina mahasiswa
-Tahsin/Tahfidz adalah kegiatan untuk memperbaiki dan meningkatkan kualitas bacaan al-quran yang dipimpin oleh pembina mahasiswa
+Shalat adalah kegiatan peribadahan wajib individual
+Ta'lim adalah kegiatan penyampaian materi keislaman
+Tahsin/Tahfidz adalah kegiatan untuk memperbaiki dan meningkatkan kualitas bacaan al-quran
 
-6. [PENILAIAN KEGIATAN]
-Ketiga kegiatan tersebut dilakukan penilaian berdasar jumlah perolehan presensi kehadiran yang diakumulasi setiap pekan. Untuk mengukur sejauh mana mahasiswa mengikuti dan melaksanakan kegiatan tersebut, dengan harapan semakin aktif mahasiswa dalam menjalani kegiatan makan akan semakin meningkat pula kualitas ibadah, akhlak dan pengetahuan islami mereka
+Ketiga kegiatan tersebut dilakukan penilaian berdasar jumlah perolehan presensi yang diakumulasi per-pekan. Untuk mengukur sejauh mana mahasiswa mengikuti dan melaksanakan kegiatan tersebut, dengan harapan semakin aktif mahasiswa dalam menjalani kegiatan makan akan semakin meningkat pula kualitas ibadah, akhlak dan pengetahuan islami mereka
 
-7. [TEKNIS PENGAMBILAN PRESENSI]
-- Kegiatan shalat presensinya diambil menggunakan mesin fingerprint dan mahasiswa melakukan tapping fingerprint setelah melaksanakan shalat disemua waktu
-- Kegiatan ta'lim presensinya diambil menggunakan formulir presensi dan diisi oleh pembina mahasiswa setelah ta'lim diadakan
-- Kegiatan tahsin/tahfidz presensinya diambil menggunakan formulir presensi dan diisi oleh pembina mahasiswa setelah tahsin/tahfidz dilaksanakan
+Kegiatan shalat presensinya diambil menggunakan mesin fingerprint dan mahasiswa melakukan tapping fingerprint setelah melaksanakan shalat, sedangkankan untuk Kegiatan ta'lim & tahsin/tahfidz presensinya diambil menggunakan formulir presensi
+
+Indikator penilaian untuk ketiga kegiatan tersebut adalah target perolehan presensi dalam satu pekan, perolehan presensi, jumlah udzur (halangan atau keringanan) dan jadwal kepulangan yang diberikan kepada mahasiswa
+
+Karena belum adanya sistem yang mengakomodasi penginputan data terkait indikator penilaian dan mengolahnya hingga menjadi informasi nilai, maka setiap pekan data presensi yang berasal dari mesin fingerprint maupun dari formulir presensi direkap dan disalin kedalam microsoft excel secara manual. 
+
+dengan banyaknya data presensi yang harus disalin dikalikan dengan jumlah mahasiswa yang ada membuat proses rekapitulasi membutuhkan waktu lebih lama dan mengakibatkan sering terjadi keterlambatan penerbitan nilai dari waktu yang ditentukan.
+
+Berdasarkan uraian permasalahan yang terjadi, maka diperlukan suatu sistem yang dapat membantu mengelola data kegiatan dan data presensi pada kegiatan program pembinaan, 
+
+dan berdasar masalah tersebut juga, tujuan penelitian ini dapat diuraikan menjadi 3 poin

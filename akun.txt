@@ -22,17 +22,22 @@ Ari Dezan Alfarishi
 
 =========================================
 
-18101118
-Amanda Dwi Noviyanti
-5v22Nv208J
-
-
+id_pembina = 14
 Alfrida Yulistia S.E
 alfrida
 alfrida123
 
+18101118
+Amanda Dwi Noviyanti
+5v22Nv208J
+
+18108021
+Ayu Astianti
+26XEGr3XBn
+
 =========================================
 
+id_pembina = 15
 Moh. Bintang Pamuncak S.E.I
 bintang
 bintang123
